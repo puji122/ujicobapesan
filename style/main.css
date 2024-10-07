@@ -244,7 +244,7 @@ body {
   }
 }
 
-@media screen and (max-height: 850px) and (max-width: 450px) {
+@media screen and (max-height: 475px) and (max-width: 350px) {
   .six .hat {
     left: 32%;
   }
